@@ -4,4 +4,5 @@ The assignment is divided into:
 - Buffer Manager
 - Record manager
 - B+ tree
+
 The README.md of each part is inside the folder. 
