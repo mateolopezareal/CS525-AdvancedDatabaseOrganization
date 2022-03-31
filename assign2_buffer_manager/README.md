@@ -1,4 +1,4 @@
-# CS525 Coding assignment 1 : Storage manager
+# CS525 Coding assignment 2 : Buffer Manager
 ## Group
 |Student name| iit mail|
 |---|---|
